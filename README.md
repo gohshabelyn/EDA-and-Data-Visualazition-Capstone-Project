@@ -1,4 +1,4 @@
-# EDA-and-Data-Visualazition-Capstone-Project
+# EDA-and-Data-Visualization-Capstone-Project
 Using used car price in India on project analysis and machine learning 
 
 Data Analysis of Important Factors in Influences the Used Cars Pricing In India Market
